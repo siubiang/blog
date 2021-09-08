@@ -27,10 +27,6 @@ theme = "m10c"
     icon = "github"
     name = "Github"
     url = "https://github.com/siubiang"
-  [[params.social]]
-    icon = "instagram"
-    name = "Instagram"
-    url = "https://instagram.com/k_siubiang"
   [params.style]
     darkestColor = "#242423"
     darkColor = "#333533"
