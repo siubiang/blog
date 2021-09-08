@@ -13,7 +13,7 @@ Timer0で20msの周期で割り込みして, 0.5~2.5msだけ出力をHIGHにす�
 
 {{< figure src="/img/posts/pic16f84a/servo-1.jpg" title="" >}}
 
-一応, 今回も[ソースコード](https://gist.github.com/siubiang/1ea44fd9f3cc07e0533092fa847bb244)をGistに公開するが, どこか絶対間違っている. 特に20msの周期の計算は適当. まぁ動いたからOK...?
+一応, 今回も[ソースコード](https://gist.github.com/xiupos/1ea44fd9f3cc07e0533092fa847bb244)をGistに公開するが, どこか絶対間違っている. 特に20msの周期の計算は適当. まぁ動いたからOK...?
 
 あと, サーボモータをただ動かすだけでは寂しいので, デジタル入力にも挑戦. デジタル入力は予想以上に簡単ね. もっと早くにやっておけばよかった...
 

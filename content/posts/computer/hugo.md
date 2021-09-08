@@ -136,11 +136,11 @@ User and Organizationリポジトリでは,
 
 ### GitHub PagesのCSSが読み込まれない
 
-`./config.toml`の`basURL`を`http://siubiang.github.io/`にしていた.
+`./config.toml`の`basURL`を`http://xiupos.github.io/`にしていた.
 正しくは,
 
 ```yml
-baseURL = "https://siubiang.github.io/"
+baseURL = "https://xiupos.github.io/"
 ```
 
 また, 絶対パスの指定をしておくと更に安心.

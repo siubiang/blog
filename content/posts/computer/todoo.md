@@ -19,7 +19,7 @@ toc : true
 
 {{< figure src="/img/posts/computer/todoo-1.png" title="スクリーンショット" >}}
 
-リポジトリ : [siubiang/todoo](https://github.com/siubiang/todoo)
+リポジトリ : [xiupos/todoo](https://github.com/xiupos/todoo)
 
 ### 使い方
 
@@ -57,7 +57,7 @@ toc : true
 
 [Vue.js](https://vuejs.org/)で作った. 作ったというか, システムはほとんど下のQiita記事のもの. デザインはちょっと工夫して使いやすくしてみた.
 
-コードは[リポジトリ](https://github.com/siubiang/todoo)にある.
+コードは[リポジトリ](https://github.com/xiupos/todoo)にある.
 
 ## 参考
 
