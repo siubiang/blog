@@ -9,7 +9,7 @@ I would be grateful if you could get some ideas from my posts.
 
 Since I'm writing in Japanese, Google Translate should help read entries.
 
-However, I will answer English or German questions. Contact me on [Twitter](https://twitter.com/xiupos).
+However, I will answer English or German questions. Contact me on [Twitter DM](https://twitter.com/xiupos). Ordinary I approve follow requests.
 
 ### Disclaimer
 
